@@ -9,3 +9,4 @@
 * Unix Shell --> Übungen gut folgen
 * Brauche noch übung bei Git bzw was Git genau soll --> Library Carpentry --> dort auch Übungen her für Unix Shell
 * HA einrichtung Lerntagebuch (dat da) bevorzugt auf githup. Wobei Wordpress schon einfächer wäre aber ja nu, dann lernen wir was neues und bis Ende Kurz wird das Teil auch gut (einigermasen zumindest) aussehen.
+* Sehr wahrscheinlich einzige und letzte Unterrrichtseiheit live und in Farbe, dank Corona
