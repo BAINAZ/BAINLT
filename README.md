@@ -1,4 +1,5 @@
-## Willkomen zu meinem Lerntagebuch für das Modul BAIN an der FHGR im HS20 Schon das du reinschaust. Als Leistungsnachweis für das obengennate Modul dürfen wir ein Lerntagebuch in Blogform schreiben. Bis zur Vollendung ende Semester wird es manchmal auch nur mit Stichworten gefüllt, bevor ich mich dahinterklemme und alles ausformuliere. 
+## Willkomen zu meinem Lerntagebuch für das Modul BAIN an der FHGR im HS20 
+Schon das du reinschaust. Als Leistungsnachweis für das obengennate Modul dürfen wir ein Lerntagebuch in Blogform schreiben. Bis zur Vollendung ende Semester wird es manchmal auch nur mit Stichworten gefüllt, bevor ich mich dahinterklemme und alles ausformuliere. 
 AZ
 
 # 13.03.2020 - Lektion 1
