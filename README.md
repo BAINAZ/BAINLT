@@ -1,7 +1,6 @@
 ## Willkomen zu meinem Lerntagebuch für das Modul BAIN an der FHGR im HS20 
 
-# Hallo
-Schön das du reinschaust. Als Leistungsnachweis für das obengennate Modul dürfen wir ein Lerntagebuch in Blogform schreiben. Bis zur Vollendung ende Semester wird es manchmal auch nur mit Stichworten gefüllt, bevor ich mich dahinterklemme und alles ausformuliere. 
+Hallo, schön das du reinschaust. Als Leistungsnachweis für das obengennate Modul dürfen wir ein Lerntagebuch in Blogform schreiben. Bis zur Vollendung ende Semester wird es manchmal auch nur mit Stichworten gefüllt, bevor ich mich dahinterklemme und alles ausformuliere. 
 AZ
 
 # 13.03.2020 - Lektion 1
@@ -20,3 +19,14 @@ AZ
 * Online-Unterricht
 * Nachmittag musste ich aussitzen da ich eine Diskushernie bekommen habe, deshalb folgt der Rest auch erst etwas später. Muss erst wieder sitzen können...
 
+# 25.04.2020 - Lektion 3
+* In Halbklassen wegen Kolloquium und vergessenem Termin
+* Archivsysteme und Repository
+* Archivsysteme:
+* --> ISAG(G)
+* --> EAD
+* --> Aktuelle Entwicklung: RiC; Volltextsuche OCR, CH Metagrid
+* ArchivesSpace --> installation, arbeit damit
+* Repository-Software für Publikationen und Lit --> DSpace (ähnlich wie ArchiveSpace?) --> OA ect. (zum x-ten Mal die gleiche Erklärung aber das kann Doz ja nicht wissen)
+* Zenodo
+* DSpace 6.3 --> Demoversion --> Community --> Collection, mit Sam und Max zusammen --> https://demo.dspace.org/jspui/handle/10673/172
