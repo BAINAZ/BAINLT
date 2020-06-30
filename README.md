@@ -1,3 +1,5 @@
+### Neue Adresse des Blogs (sorry!): https://bainltaz.wordpress.com
+
 ## Willkomen zu meinem Lerntagebuch für das Modul BAIN an der FHGR im HS20 
 
 Hallo, schön das du reinschaust. Als Leistungsnachweis für das obengennate Modul dürfen wir ein Lerntagebuch in Blogform schreiben. Bis zur Vollendung ende Semester wird es manchmal auch nur mit Stichworten gefüllt, bevor ich mich dahinterklemme und alles ausformuliere. 
