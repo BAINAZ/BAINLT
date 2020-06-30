@@ -1,4 +1,4 @@
-### Neue Adresse des Blogs (sorry!): https://bainltaz.wordpress.com
+### Neue Adresse des Blogs (sorry!): `https://bainltaz.wordpress.com`
 
 ## Willkomen zu meinem Lerntagebuch für das Modul BAIN an der FHGR im HS20 
 
